@@ -1,3 +1,4 @@
 line-bot-sdk==3.5.1
 flask==2.2.2
 requests==2.31.0
+Werkzeug==2.2.2
