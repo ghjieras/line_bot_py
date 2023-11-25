@@ -1,4 +1,3 @@
 line-bot-sdk==3.5.1
 flask==1.1.2
 requests==2.31.0
-Jinja2 ==2.11.3
